@@ -1,0 +1,163 @@
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+:root{
+    --blanco: #ffffff;
+    --oscuro: #212121;
+    --oscuroFooter: #2D2A2B;
+    --oscuroFooterPP: #7D87CA;
+    --oscuroFooterP: #8D6860;
+    --primario: #ffc107;
+    --secundario: #0097A7;
+    --gris: #757575;
+    --violeta: #76448A;
+    --granate: #922B21;
+    --rojo: #B03A2E;
+    --ojo: #ff904f;
+    --fondoOscuro: #281507;
+    --fondoOscuro2: #120701;
+    --fondo2023claro:#4E3F36;
+    --fondo2023Oscuro:#02142C;
+    --nubeOscura:#1A1816;
+    --nubeClara:#89745B;
+    --ojos2023:#FFF3B0;
+    --verdeAcordeon2023:#5D1A0B;
+    --cuadroIn2024: #745C46;
+    --fondoAcordeon2023:#841F20;
+    --fondoAcordeon2024:#261E1A;
+    --fondoAcordeon20242:#1A1816;
+    --verde2023:#2E435E;
+    --posibleFooter2024: #5D1A0B;
+    --ojos2024: #FCFFDF;
+    --luz2024: #F3D678;
+    --luna2024: #FEFFDD;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+.borde{
+    border: 1px solid var(--oscuro);
+}
+
+.importante{
+    font-weight: bold;
+    font-size: large;
+}
+
+.centro{
+    text-align: center;
+}
+
+.colorAcordeon{
+    background-color: var(--fondoAcordeon20242)!important;
+    color: var(--luna2024)!important;
+}
+
+.colorAcordeonIn{
+    color: var(--luna2024)!important;
+    background-image: linear-gradient(to top, var(--nubeOscura) 0%, var(--fondo2023claro) 100%);
+}
+
+body{
+    font-family: 'Gloria Hallelujah', cursive, sans-serif;
+    background-image: linear-gradient(to top, var(--nubeClara) 0%, var(--nubeOscura) 80%);
+}
+
+h1{
+    text-align: center;
+    color: var(--luna2024);
+}
+
+.botones{
+    color: var(--rojo);
+    text-align: center;
+}
+
+button{
+    text-align: center!important;
+}
+
+.botonesDescarga{
+    margin-top: 10px;
+}
+
+.portada{
+    width: 100%;
+    height: 160px;
+    margin: 0 auto;
+}
+
+.dropColor{
+    color: var(--nubeOscura)!important;
+    padding: 0px!important;
+    margin: 0px!important;
+    /* background-color: var(--fondoAcordeon2023); */
+    background-image: linear-gradient(to top, var(--granate) 0%, var(--fondoAcordeon20242) 100%);
+}
+
+.footer{
+    margin-top: 4px;
+    padding: 4px;
+    text-align: center;
+    /* background-image: linear-gradient(to top, var(--fondoOscuro) 0%, var(--fondo2023Oscuro) 100%); */
+    background-image: linear-gradient(to top, var(--verde2023) 0%, var(--nubeOscura) 70%);
+    color: var(--luz2024);
+    border-radius: 100px;
+    max-width: 100%;
+    max-height: 100%;
+    font-size: 6px;    
+}
+
+.titulo{
+    text-align: center;
+    font-size: 30px;
+    color: var(--oscuro);
+    max-width: 100%;
+}
+
+
+.descripcion, span{
+    text-align: center!important;
+    font-size: 18px;
+    color: var(--blanco);
+}
+
+.cuadro{
+    border: 2px solid;
+    border-color: var(--oscuroFooter);
+    padding: 10px;
+    border-radius: 10px;
+    /* background-image: linear-gradient(to top, var(--fondoAcordeon2023) 0%, var(--granate) 100%); */
+    background-image: linear-gradient(to top, var(--fondoAcordeon20242) 40%, var(--cuadroIn2024) 80%);
+}
+
+.mt{
+    margin-top: 100px;
+}
+
+/* Color cuando el acordeón está colapsado (no desplegado) */
+.accordion-button:not(.collapsed)::after {
+    color: var(--posibleFooter2024) !important;
+    transition: color 0.3s ease;
+}
+
+/* Color cuando el acordeón está desplegado */
+.accordion-button::after {
+    color: var(--luz2024) !important;
+    transition: color 0.3s ease;
+}
+
+/* Media querys*/
+
+@media (min-width: 768px){
+    .portada{
+        height: 412px;
+    }
+    .footer{
+        font-size: 14px;
+    }
+    
+}
