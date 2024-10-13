@@ -161,3 +161,19 @@ button{
     }
     
 }
+
+
+/* Flex */
+
+.titulo.cuadro {
+    display: flex;
+    flex-direction: column;
+}
+
+/* .titulo.cuadro > *:not(:last-child) {
+    flex-grow: 1;
+} */
+
+.titulo.cuadro > *:last-child {
+    margin-top: auto;
+}
