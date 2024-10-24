@@ -99,8 +99,8 @@ button{
 }
 
 .footer{
-    margin-top: 4px;
-    padding: 4px;
+    margin-top: 3px;
+    padding: 12px;
     text-align: center;
     /* background-image: linear-gradient(to top, var(--fondoOscuro) 0%, var(--fondo2023Oscuro) 100%); */
     background-image: linear-gradient(to top, var(--verde2023) 0%, var(--nubeOscura) 70%);
@@ -154,7 +154,7 @@ button{
 
 @media (min-width: 768px){
     .portada{
-        height: 412px;
+        height: 400px;
     }
     .footer{
         font-size: 14px;

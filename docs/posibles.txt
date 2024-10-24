@@ -243,7 +243,7 @@ Con más de un 5:
 -	10º The Last Stop in Yuma County;
 -	11º Dream Scenario;
 -	12º Vermin: La plaga;
--	13º Sick of Myself;
+-	13º Sick of Myself; NO, va a Seleccionadas
 -	14º The Devil's Candy;
 -	15º La chica de al lado;
 -	16º El ente;
@@ -376,65 +376,70 @@ Seleccionadas:
 	-	35º Night of The Demnos 1;
 	-	36º Night Of the Demons 2;
 	-	37º Night Of the Demons 3;
-	-	38º 
-	-	39º 
+	-	38º Sick of Myself;
+	-	39º The Substance;
+
+Seleccionadas Menos las Ordenadas:
+
 
 Orden:
 
 	Miércoles:
 
-		-1º 
-		-2º 
-		-3º 
-		-4º 
-		-5º 
-		-6º 
-		-7º 
-		-8º 
+		-1º Sleep;
+		-2º De naturaleza violenta;
+		-3º Lowlifes;
+		-4º Oddity;
+		-5º Savageland;
+		-6º The Vourdalak;
+		-7º Immaculate;
+		-8º Abigail;
 
 	Jueves:
 
-		-1º 
-		-2º 
-		-3º 
-		-4º 
-		-5º 
-		-6º 
-		-7º 
-		-8º 
+		-1º Descansa en paz;
+		-2º Starve Acre;
+		-3º Night of The Demnos 1;
+		-4º The Eyes of My Mother;
+		-5º The Goat and Her Three Kids;
+		-6º El baño del diablo;
+		-7º Grave Torture;
+		-8º La Primera Profecía;
 	
 	Viernes:
 
-		-1º 
-		-2º 
-		-3º 
-		-4º 
-		-5º 
-		-6º 
-		-7º 
-		-8º 
+		-1º Vermin: La plaga;
+		-2º Sting. Araña asesina;
+		-3º Night Of the Demons 2;
+		-4º Stopmotion;
+		-5º Birth/Rebirth;
+		-6º Excisión;
+		-7º Sick of Myself;
+		-8º The Substance;
 
 	Sábado:
 
-		-1º 
-		-2º 
-		-3º 
-		-4º 
-		-5º 
-		-6º 
-		-7º 
-		-8º 
+		-1º Kill;
+		-2º La chica de al lado;
+		-3º Night Of the Demons 3;
+		-4º Mother, May I?;
+		-5º Monolith;
+		-6º You'll Never Find Me;
+		-7º Sissy;
+		-8º No hables con extraños;
+		-9º El último late night;
 
 	Domingo:
 
-		-1º 
-		-2º 
-		-3º 
-		-4º 
-		-5º 
-		-6º 
-		-7º 
-		-8º 
+		-1º Oddity;
+		-2º El brillo de la televisión;
+		-3º BettleJuice;
+		-4º Bitelchús Bitelchús;
+		-5º Exhuma;
+		-6º Hell House LLC Origins: The Carmichael Manor;
+		-7º Strange Darling;
+		-8º MaXXXine;
+		-9º Longlegs;
 
 
 Para Abrir Boca:
